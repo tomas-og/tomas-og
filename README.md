@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomas Og</h1>
+<h1 align="center">Hi 👋, I'm Tomás Óg</h1>
 <h3 align="center">💻 Third-year BSc (Hons) Computing in Software Development student at ATU, Galway. 🔧 Passionate about software development, problem-solving, and building projects.</h3>
 
 - 🔭 I’m currently studying **Computing in Software Development**
