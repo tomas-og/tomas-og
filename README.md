@@ -10,12 +10,13 @@
 ### `> about`
 
 Final-year BSc (Hons) Computing in Software Development student at **ATU Galway**. I enjoy building software, solving problems, and learning new technologies, with a particular interest in **AI, web development, and software engineering**.
+
 ### `> status`
 
 ```yaml
 graduating:  2027
 looking_for: Graduate software developer role
-interests:   web development, front-end craft, game dev, clean UI
+interests:   AI, web development, front-end, back-end clean UI
 based_in:    Galway, Ireland
 ```
 
@@ -48,20 +49,30 @@ based_in:    Galway, Ireland
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **JOGGO AR(https://github.com/JamesN05/Ctrl-A-Ctrl-C-Ctrl-V)** | AR App For Smart Glasses To Aid People With Memory Loss Issues. | Unity, Firebase, Google AR  |
-| **K9 Design(https://github.com/tomas-og/K9Design_V1)** | Dog Grooming Website For a Local Business | Html, CSS, Java Script |
-| **TaskMaxxing(https://github.com/JamesN05/Year-3-Prof-Prac-IT-Project)** | Habit Tracking App. That Uses Social Features to Hold Users Accountable. | Expo, React Native, Firebase Auth, AsyncStorage |
+| **[JOGGO AR](https://github.com/JamesN05/Ctrl-A-Ctrl-C-Ctrl-V)** | AR app for smart glasses that aids people with memory loss | Unity, Firebase, Google AR |
+| **[K9 Design](https://github.com/tomas-og/K9Design_V1)** | Website for a local dog grooming business | HTML, CSS, JavaScript |
+| **[TaskMaxxing](https://github.com/JamesN05/Year-3-Prof-Prac-IT-Project)** | Habit-tracking app that uses social features to keep users accountable | Expo, React Native, Firebase Auth, AsyncStorage |
+
+<!--
+STATS: uncomment this block AFTER you've added the workflow file
+(.github/workflows/profile-summary-cards.yml) and run it once from the Actions tab.
 
 ### `> stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tomas-og&show_icons=true&theme=dark&hide_border=true&bg_color=050507&title_color=00e5ff&icon_color=8a5cff&text_color=c9ced6" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomas-og&layout=compact&theme=dark&hide_border=true&bg_color=050507&title_color=00e5ff&text_color=c9ced6" alt="Top languages" />
+  <img height="200" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
+  <img height="200" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 </p>
+-->
 
 ### `> contact`
 
-<p>
-  <a href="mailto:g00435846@atu.ie"><img src="https://img.shields.io/badge/Email-050507?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email" /></a>
-  <a href="https://linkedin.com/in/tomasogxyz"><img src="https://img.shields.io/badge/LinkedIn-050507?style=for-the-badge&logo=linkedin&logoColor=00e5ff" alt="LinkedIn" /></a>
+<p align="center">
+  Open to graduate roles and interesting projects. Get in touch.
+</p>
+
+<p align="center">
+  <a href="mailto:g00435846@atu.ie"><img src="https://img.shields.io/badge/EMAIL-g00435846%40atu.ie-00E5FF?style=for-the-badge&labelColor=050507" alt="Email" /></a>
+  <a href="https://linkedin.com/in/tomasogxyz"><img src="https://img.shields.io/badge/LINKEDIN-tomasogxyz-8A5CFF?style=for-the-badge&labelColor=050507" alt="LinkedIn" /></a>
+  <a href="https://github.com/tomas-og"><img src="https://img.shields.io/badge/GITHUB-tomas--og-C9CED6?style=for-the-badge&labelColor=050507" alt="GitHub" /></a>
 </p>
