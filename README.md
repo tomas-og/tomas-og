@@ -53,17 +53,12 @@ based_in:    Galway, Ireland
 | **[K9 Design](https://github.com/tomas-og/K9Design_V1)** | Website for a local dog grooming business | HTML, CSS, JavaScript |
 | **[TaskMaxxing](https://github.com/JamesN05/Year-3-Prof-Prac-IT-Project)** | Habit-tracking app that uses social features to keep users accountable | Expo, React Native, Firebase Auth, AsyncStorage |
 
-<!--
-STATS: uncomment this block AFTER you've added the workflow file
-(.github/workflows/profile-summary-cards.yml) and run it once from the Actions tab.
-
 ### `> stats`
 
 <p align="center">
   <img height="200" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
   <img height="200" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" />
 </p>
--->
 
 ### `> contact`
 
