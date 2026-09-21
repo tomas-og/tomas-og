@@ -2,7 +2,7 @@
 <h3 align="center">Software developer · Galway, Ireland</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=640&lines=Final-year+Software+Development+%40+ATU+Galway;I+build+websites%2C+apps+and+games;Open+to+graduate+roles" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=00B8D4&center=true&vCenter=true&width=640&lines=Final-year+Software+Development+%40+ATU+Galway;Open+to+graduate+positions" alt="Final-year Software Development student at ATU Galway, open to graduate positions" />
 </p>
 
 ---
@@ -16,9 +16,17 @@ Final-year BSc (Hons) Computing in Software Development student at **ATU Galway*
 ```yaml
 graduating:  2027
 looking_for: Graduate software developer role
-interests:   AI, web development, front-end, back-end clean UI
+interests:   AI, web development, front-end craft, game dev, clean UI
 based_in:    Galway, Ireland
 ```
+
+### `> selected_work`
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **JOGGO AR** | AR app for smart glasses that aids people with memory loss | Unity, Firebase, Google AR | [Repo](https://github.com/JamesN05/Ctrl-A-Ctrl-C-Ctrl-V) |
+| **K9 Design** | Website for a local dog grooming business | HTML, CSS, JavaScript | [Repo](https://github.com/tomas-og/K9Design_V1) · [Live](https://k9design.ie) |
+| **TaskMaxxing** | Habit-tracking app that uses social features to keep users accountable | Expo, React Native, Firebase Auth, AsyncStorage | [Repo](https://github.com/JamesN05/Year-3-Prof-Prac-IT-Project) |
 
 ### `> stack`
 
@@ -44,14 +52,6 @@ based_in:    Galway, Ireland
     <td><img src="https://skillicons.dev/icons?i=ai,ps,git,github,vscode&theme=dark" alt="Design and tools" /></td>
   </tr>
 </table>
-
-### `> selected_work`
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[JOGGO AR](https://github.com/JamesN05/Ctrl-A-Ctrl-C-Ctrl-V)** | AR app for smart glasses that aids people with memory loss | Unity, Firebase, Google AR |
-| **[K9 Design](https://github.com/tomas-og/K9Design_V1)** | Website for a local dog grooming business | HTML, CSS, JavaScript |
-| **[TaskMaxxing](https://github.com/JamesN05/Year-3-Prof-Prac-IT-Project)** | Habit-tracking app that uses social features to keep users accountable | Expo, React Native, Firebase Auth, AsyncStorage |
 
 ### `> stats`
 
