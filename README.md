@@ -55,8 +55,10 @@ based_in:    Galway, Ireland
 
 ### `> stats`
 
-profile-summary-card-output/tokyonight/0-profile-details.svg
-profile-summary-card-output/tokyonight/1-repos-per-language.svg
+<p align="center">
+  <img height="200" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile details" />
+  <img height="200" src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+</p>
 
 ### `> contact`
 
