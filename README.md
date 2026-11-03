@@ -16,7 +16,7 @@ Final-year BSc (Hons) Computing in Software Development student at **ATU Galway*
 ```yaml
 graduating:  2027
 looking_for: Graduate software developer role
-interests:   AI, web development, front-end craft, game dev, clean UI
+interests:   AI, web development, front-end craft, clean UI
 based_in:    Galway, Ireland
 ```
 
